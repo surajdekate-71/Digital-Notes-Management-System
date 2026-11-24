@@ -1,0 +1,5 @@
+N1|Python|Learn loops
+N2|Maths|Revise calculus
+N3|DBMS|Study database concepts
+N4|Java|Practice OOP concepts
+N5|Computer Networks|Learn TCP and UDP
